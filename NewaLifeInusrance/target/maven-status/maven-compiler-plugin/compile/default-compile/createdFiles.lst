@@ -1,0 +1,11 @@
+org\LifeInusrance\ObjectRepository\Clients_InformationPage.class
+org\LifeInusrance\ObjectRepository\Add_clientPage.class
+org\NewaInsurance_GenrericUtilities\ExcelUtilities.class
+org\NewaInsurance_GenrericUtilities\FileUtilities.class
+org\LifeInusrance\ObjectRepository\Homepage.class
+org\NewaInsurance_GenrericUtilities\DatabaseUtilities.class
+org\LifeInusrance\ObjectRepository\Loginpage.class
+org\NewaInsurance_GenrericUtilities\JavaUtilities.class
+org\NewaInsurance_GenrericUtilities\WebdriverPerformUtilities.class
+org\NewaInsurance_GenrericUtilities\BaseClass.class
+org\LifeInusrance\ObjectRepository\Insert_ClientPage.class
