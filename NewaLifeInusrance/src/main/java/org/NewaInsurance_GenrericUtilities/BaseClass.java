@@ -28,7 +28,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	
-    public static WebDriver sDriver;//Listeners
+    public static WebDriver sDriver;//Listeners implementation are helpful to watch the script during the runtime
 	public WebDriver driver;
 	public DatabaseUtilities dlib = new DatabaseUtilities();
 	public FileUtilities flib = new FileUtilities();
