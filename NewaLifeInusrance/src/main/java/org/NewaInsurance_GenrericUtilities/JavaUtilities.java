@@ -16,7 +16,7 @@ public class JavaUtilities {
 	SimpleDateFormat sdf=new SimpleDateFormat("MM-dd-yyyy");
 	
 	/**
-	 * This method is used to get the random numbers within the limit of 4000 numbers
+	 * This method is used to get the random numbers within the limit of 4000 numbers and can be used for any of the datatypes
 	 * @return
 	 */
 	public int getRandomNumber() {

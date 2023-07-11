@@ -44,7 +44,7 @@ public class WebdriverPerformUtilities {
 	}
 
 	/***
-	 * This method is used to minimize the window
+	 * This method is used to minimize the window from the normal size of the window
 	 * @param driver
 	 */
 	public void minimizeWindow(WebDriver driver) {
