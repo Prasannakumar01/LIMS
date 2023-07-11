@@ -55,7 +55,7 @@ public class ExcelUtilities {
 	}
 
 	/**
-	 * This method is used to get the row count using the ExcelUpath and sheet
+	 * This method is used to get the row count using the ExcelUpath and sheet as the parameters in the getrowcount
 	 * 
 	 * @param ExcelUpath
 	 * @param sheet
